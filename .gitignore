@@ -1,0 +1,14 @@
+#checkpoints
+.ipynb_checkpoints/
+
+#input files
+input/
+
+#entire model
+entire_model.h5
+
+#model architecture
+model_architecture.json
+
+#model weights
+model_weights.h5
